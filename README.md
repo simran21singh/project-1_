@@ -1,2 +1,2 @@
 # project-1_
-my first Github project 
+my first Github repository 
